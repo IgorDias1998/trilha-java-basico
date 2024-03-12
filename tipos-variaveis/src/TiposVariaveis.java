@@ -1,3 +1,5 @@
+import java.util.Date;
+
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         //Variáveis
@@ -7,6 +9,8 @@ public class TiposVariaveis {
         String nome = "Igor";
         boolean verdadeiro = true;
         boolean falso = false;
+        char letra = 'I';
+        Date dataNascimento = new Date();
 
         //Constantes (Valores não mudam \ Adicionar final antes do tipo da variável \ Nomear em caixa alta)
         final short IDADE = 24;
