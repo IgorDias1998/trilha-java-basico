@@ -8,7 +8,7 @@ mostre-a expressa em dias. Leve em consideração o ano com 365 dias e o mês co
  */
 
 public class Exercicio_02_idade_em_dias {
-    public void main(String [] args) {
+    public static void main(String [] args) {
         int ano;
         int meses;
         int dias;

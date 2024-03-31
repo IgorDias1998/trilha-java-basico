@@ -8,7 +8,7 @@ calcule a quantidade de salários mínimos esse usuário ganha e imprima o resul
  */
 
 public class quantos_salarios_recebe {
-    public void main(String [] args){
+    public static void main(String [] args){
         double salario;
         double salario_minimo = 788;
         double salarios_recebidos;
