@@ -19,7 +19,7 @@ public class Carro {
         this.ignicaoCombustao = ignicaoCombustao;
     }
 
-    public Carro(String marca, String modelo, int ano, String ignicao) {
+    public Carro(String marca, String modelo, int ano, String ignicaoEletrica) {
         this.marca = marca;
         this.modelo = modelo;
         this.ano = ano;
